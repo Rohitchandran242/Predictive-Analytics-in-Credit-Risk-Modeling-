@@ -11,7 +11,7 @@ The main aim of this project is to identify patterns that indicate the likelihoo
 Microsoft Excel 2016
 
 # Dataset
-The analysis is based on the application_data.csv file which contains detailed information about loan applications.
+The analysis is based on the Loan case study.xlsx file which contains detailed information about loan applications.
 
 https://drive.google.com/drive/folders/1fqXihh_MSvaVdItfbtYjo2RgI-J8R5TY?usp=sharing
 
