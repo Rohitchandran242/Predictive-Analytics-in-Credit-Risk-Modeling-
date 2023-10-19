@@ -13,7 +13,7 @@ Microsoft Excel 2016
 # Dataset
 The analysis is based on the application_data.csv file which contains detailed information about loan applications.
 
-https://drive.google.com/drive/my-drive
+https://drive.google.com/drive/folders/1fqXihh_MSvaVdItfbtYjo2RgI-J8R5TY?usp=sharing
 
 # Key Findings
 Identification of outliers in various financial categories underscored their pronounced effect on loan approval decisions. Notably, discrepancies in reported total income, employment duration, credit amount, annuity, goods price, and family member count were significant red flags.
